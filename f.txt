@@ -1,0 +1,6 @@
+#Good
+name 
+= 
+12.357
+b = "dsds"
+c = 2
